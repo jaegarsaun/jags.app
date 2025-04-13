@@ -53,7 +53,7 @@ const projects: ProjectItems[] = [
     },
     {
         title: 'Portfolio',
-        link: 'https://github.com/jaegarsaun/TheJJBot',
+        link: 'https://github.com/jaegarsaun/jags.app',
         description: 'This is the website you are currently on! Fully hand crafted compotents to display a portion of my skills',
         tech: [
             {name: 'Typescript', icon: <SiTypescript />},
